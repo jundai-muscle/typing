@@ -1,0 +1,25 @@
+#app{
+    font-size:100px;
+    text-align:center;
+    padding-top: 150px;
+}
+
+#typedField{
+    width:500px;
+    height:50px;
+    border: 2px solid black;
+    font-size:30px
+}
+
+#typed{
+    color:red;
+}
+
+#timer{
+    text-align:center;
+    font-size:50px
+}
+
+#totaltype,#misstype{
+    font-size:30px;
+}
